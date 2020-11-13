@@ -1,0 +1,3 @@
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato
+blue red green white gray yellow pink brown
+banana apple pineapple pear blueberry orange 
