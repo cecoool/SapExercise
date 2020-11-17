@@ -1,3 +1,15 @@
-carrot broccoli corn cucumber pepper onion potato pumpkin tomato
-blue red green white gray yellow pink brown
+blue red green white gray yellow pink brown 
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato 
 banana apple pineapple pear blueberry orange 
+red blue green white gray yellow pink brown 
+pineapple apple banana pear blueberry orange 
+banana apple pineapple pear blueberry orange 
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato 
+blue red green white gray yellow pink brown 
+banana apple pineapple pear blueberry orange 
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato 
+blue red green white gray yellow pink brown 
+banana apple pineapple pear blueberry orange 
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato 
+blue red green white gray yellow pink brown 
+carrot broccoli corn cucumber pepper onion potato pumpkin tomato 
